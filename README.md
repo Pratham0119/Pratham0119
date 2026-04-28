@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratham0119" alt="pratham0119" /></a> </p>
 
-- 🔭 I’m currently working on **EDA Text Analytics Project**
 
-- 🌱 I’m currently learning **Python, Blockchain, Artificial Intelligence & Data Science**
+
+- 🌱 I’m currently learning **Blockchain, Artificial Intelligence & Data Science**
 
 - 💬 Ask me about **PYTHON**
 
