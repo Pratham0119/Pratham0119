@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pratham Chavan</h1>
-<h3 align="center">Code Enthusiast || Code Explorer || AI Enthusiast || Data Science Intern</h3>
+<h3 align="center">Code Enthusiast || Code Explorer || AI Enthusiast</h3>
 
 
  
